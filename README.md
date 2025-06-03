@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================
 
 
-### Interested in Data Mining, Statistical Learning, Machine Learning, Forecasting, Simulation, and Data Privacy.
-
+#### Interested in Data Mining, Statistical Learning, Machine Learning, Forecasting, Simulation, and Data Privacy.
+---------------------------
 
 
 * 🌍  I'm based in Thailand
