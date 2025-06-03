@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Don
 ===========================================================================================================================
 
-student at CMU
+
 --------------
 
-I am studying for a master's degree in data science.
+
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [chayadon\_lu@cmu.ac.th](mailto:chayadon_lu@cmu.ac.th)
 
 ### Skills
 
