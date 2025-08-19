@@ -3,12 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 ### My areas of interest include the following topics:
-  - Pattern Discovery
+  - Data Mining and Pattern Discovery
   - Statistical Machine Learning
-  - Statistical Computing
   - Forecasting Techniques
   - Pattern Recognition
-  - Data Privacy Threat
+  - Data Privacy and Threat
 ---------------------------
 
 
