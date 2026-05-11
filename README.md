@@ -1,13 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Don
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Don
 ===========================================================================================================================
 
 
-### My areas of interest include the following topics:
-  - Data and Pattern Mining
-  - Statistical Machine Learning
-  - Statistical Forecasting Techniques
+### My areas of interest, mostly in Machine Learning and Statistics, include the following topics:
+  - Statistical Learning
+  - Privacy-Preserving Machine Learning
+  - Machine Learning Theory
   - Pattern Recognition
-  - Data Privacy and Threat
+  - Data and Pattern Mining
+  - Applied Statistics 
 ---------------------------
 
 
